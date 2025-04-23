@@ -1,15 +1,8 @@
 .questions {
   background-color: #f8fffe;
-  min-height: 50px; /* Changed to min-height */
+  height: 50px;
   margin-top: 20px;
   padding: 15px;
   max-width: 600px;
   border-left: 8px solid green;
-  text-align: left; /* Added text alignment */
-  font-family: Arial, sans-serif; /* Added font family */
-  font-size: 16px; /* Added font size */
-}
-
-.questions:hover {
-  background-color: #e0f7fa; /* Added hover effect */
 }
